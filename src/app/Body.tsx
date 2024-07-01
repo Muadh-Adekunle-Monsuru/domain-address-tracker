@@ -63,7 +63,7 @@ export default function Body() {
 			<section className='bg-mobilebg md:bg-desktopbg p-10 flex flex-col justify-center items-center gap-5 shadow-md bg-cover bg-center'>
 				{/* search section */}
 				<h1 className='text-center text-white font-bold text-2xl select-none'>
-					IP Address Tracker
+					Domain Tracker
 				</h1>
 				<form
 					onSubmit={handleSearch}
